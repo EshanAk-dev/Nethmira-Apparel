@@ -1,4 +1,4 @@
-# 👕 Clothing Shop Web Application
+# 👕 Nethmira Apparel Clothing Shop Web Application
 
 A modern **e-commerce platform for clothing** built using **Laravel** and **MySQL**. This web application allows customers to browse and purchase clothing items, while providing admin functionalities for product and order management.
 
